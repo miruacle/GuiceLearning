@@ -1,4 +1,4 @@
-package com.cothing.rua.dependency_injection.multibindings.shape;
+package com.cothing.rua.multibindings.shape;
 
 import com.google.inject.AbstractModule;
 import com.google.inject.binder.LinkedBindingBuilder;

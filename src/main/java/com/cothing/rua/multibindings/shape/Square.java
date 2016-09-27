@@ -1,4 +1,4 @@
-package com.cothing.rua.dependency_injection.multibindings.shape;
+package com.cothing.rua.multibindings.shape;
 
 public class Square implements Shape {
 	
